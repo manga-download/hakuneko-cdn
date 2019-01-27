@@ -1,7 +1,83 @@
 [
   {
+    "id": "/read-manga/danberu_nan_kiro_moteru/",
+    "title": "Danberu nan kiro moteru?"
+  },
+  {
+    "id": "/read-manga/spirit_sword_sovereign/",
+    "title": "Spirit Sword Sovereign"
+  },
+  {
     "id": "/read-manga/crimson_ribbon_smoke_on_the_water/",
     "title": "Crimson Ribbon: Smoke on the Water"
+  },
+  {
+    "id": "/read-manga/hedgehog_harry/",
+    "title": "Hedgehog Harry"
+  },
+  {
+    "id": "/read-manga/eleceed/",
+    "title": "Eleceed"
+  },
+  {
+    "id": "/read-manga/gal_gohan/",
+    "title": "Gal Gohan"
+  },
+  {
+    "id": "/read-manga/shape_of_love/",
+    "title": "Shape of Love"
+  },
+  {
+    "id": "/read-manga/hi_score_girl/",
+    "title": "Hi Score Girl"
+  },
+  {
+    "id": "/read-manga/red_storm/",
+    "title": "Red Storm"
+  },
+  {
+    "id": "/read-manga/sekai_de_ichiban_oppai_ga_suki/",
+    "title": "Sekai de Ichiban Oppai ga Suki!"
+  },
+  {
+    "id": "/read-manga/sensei_yori_mo_amaku/",
+    "title": "Sensei Yori mo Amaku"
+  },
+  {
+    "id": "/read-manga/i_m_a_fake_npc/",
+    "title": "I'm a Fake NPC"
+  },
+  {
+    "id": "/read-manga/my_succubus_girlfriend/",
+    "title": "My Succubus Girlfriend"
+  },
+  {
+    "id": "/read-manga/googookaka/",
+    "title": "Googookaka"
+  },
+  {
+    "id": "/read-manga/oddman_11/",
+    "title": "Oddman 11"
+  },
+  {
+    "id": "/read-manga/winter_moon/",
+    "title": "Winter Moon"
+  },
+  {
+    "id": "/read-manga/stalker_x_stalker/",
+    "title": "Stalker x Stalker"
+  },
+  {
+    "id": "/read-manga/handyman_saitou_in_another_world/",
+    "title": "Handyman Saitou In Another World"
+  },
+  {
+    "id": "/read-manga/mato_seihei_no_slave/",
+    "title": "Mato Seihei no Slave"
+  },
+  {
+    "id": "/read-manga/dokunie_cooking/",
+    "title": "Dokunie Cooking"
   },
   {
     "id": "/read-manga/usogui/",
@@ -130,10 +206,6 @@
   {
     "id": "/read-manga/tsumi_to_kai/",
     "title": "Tsumi to Kai"
-  },
-  {
-    "id": "/read-manga/i_m_a_fake_npc/",
-    "title": "I'm a Fake NPC"
   },
   {
     "id": "/read-manga/sakura_trick/",
@@ -500,10 +572,6 @@
     "title": "Martial Peak"
   },
   {
-    "id": "/read-manga/hedgehog_harry/",
-    "title": "Hedgehog Harry"
-  },
-  {
     "id": "/read-manga/the_hunter/",
     "title": "The Hunter"
   },
@@ -546,10 +614,6 @@
   {
     "id": "/read-manga/maou_no_kawaii_yamada_wa_yoiko/",
     "title": "Maou No Kawaii Yamada Wa Yoiko"
-  },
-  {
-    "id": "/read-manga/spirit_sword_sovereign/",
-    "title": "Spirit Sword Sovereign"
   },
   {
     "id": "/read-manga/pocket_monsters_special_sun_moon/",
@@ -822,10 +886,6 @@
   {
     "id": "/read-manga/nanairo_kakumei/",
     "title": "Nanairo Kakumei"
-  },
-  {
-    "id": "/read-manga/winter_moon/",
-    "title": "Winter Moon"
   },
   {
     "id": "/read-manga/dr_stone/",
@@ -1814,10 +1874,6 @@
   {
     "id": "/read-manga/hatsukoi_zombie/",
     "title": "Hatsukoi Zombie"
-  },
-  {
-    "id": "/read-manga/mato_seihei_no_slave/",
-    "title": "Mato Seihei no Slave"
   },
   {
     "id": "/read-manga/boyish_girlfriend/",
@@ -3100,10 +3156,6 @@
     "title": "Isekai Cheat Magician"
   },
   {
-    "id": "/read-manga/red_storm/",
-    "title": "Red Storm"
-  },
-  {
     "id": "/read-manga/a_b/",
     "title": "A&B"
   },
@@ -3158,10 +3210,6 @@
   {
     "id": "/read-manga/worlds_end_harem/",
     "title": "World's End Harem"
-  },
-  {
-    "id": "/read-manga/stalker_x_stalker/",
-    "title": "Stalker x Stalker"
   },
   {
     "id": "/read-manga/ojousama_no_shimobe/",
@@ -4028,10 +4076,6 @@
     "title": "Nikutaikan-k"
   },
   {
-    "id": "/read-manga/danberu_nan_kiro_moteru/",
-    "title": "Danberu nan kiro moteru?"
-  },
-  {
     "id": "/read-manga/dragon_s_symbol_of_the_king_s_road_under_the_sky/",
     "title": "Dragon's Symbol of the King's Road Under the Sky"
   },
@@ -4410,10 +4454,6 @@
   {
     "id": "/read-manga/renjou_desperado/",
     "title": "Renjou Desperado"
-  },
-  {
-    "id": "/read-manga/sekai_de_ichiban_oppai_ga_suki/",
-    "title": "Sekai de Ichiban Oppai ga Suki!"
   },
   {
     "id": "/read-manga/prince_of_silk_and_thorn/",
@@ -5040,10 +5080,6 @@
     "title": "Shadow House"
   },
   {
-    "id": "/read-manga/oddman_11/",
-    "title": "Oddman 11"
-  },
-  {
     "id": "/read-manga/retired_heroes/",
     "title": "Retired Heroes"
   },
@@ -5070,10 +5106,6 @@
   {
     "id": "/read-manga/dagashi_kashi/",
     "title": "Dagashi Kashi"
-  },
-  {
-    "id": "/read-manga/my_succubus_girlfriend/",
-    "title": "My Succubus Girlfriend"
   },
   {
     "id": "/read-manga/maou_no_mama_ni_narundayo/",
@@ -5598,10 +5630,6 @@
   {
     "id": "/read-manga/senpai_kouhai/",
     "title": "Senpai×Kouhai"
-  },
-  {
-    "id": "/read-manga/dokunie_cooking/",
-    "title": "Dokunie Cooking"
   },
   {
     "id": "/read-manga/midnight_stories/",
@@ -6460,10 +6488,6 @@
     "title": "Hakaima Sadamitsu"
   },
   {
-    "id": "/read-manga/gal_gohan/",
-    "title": "Gal Gohan"
-  },
-  {
     "id": "/read-manga/eiyuu_no_musume_to_shite_umarekawatta_eiyuu_wa_futatabi_eiyuu_o_mezasu/",
     "title": "Eiyuu No Musume To Shite Umarekawatta Eiyuu Wa Futatabi Eiyuu O Mezasu"
   },
@@ -7044,10 +7068,6 @@
     "title": "Teruteru Bouzu Tere Bouzu"
   },
   {
-    "id": "/read-manga/eleceed/",
-    "title": "Eleceed"
-  },
-  {
     "id": "/read-manga/shijima_no_tsuki/",
     "title": "Shijima no Tsuki"
   },
@@ -7564,8 +7584,8 @@
     "title": "Kaijuu Iro no Shima"
   },
   {
-    "id": "/read-manga/etotama/",
-    "title": "Etotama"
+    "id": "/read-manga/gintama/",
+    "title": "Gintama"
   },
   {
     "id": "/read-manga/etotama/",
@@ -8626,10 +8646,6 @@
   {
     "id": "/read-manga/supinamarada/",
     "title": "Supinamarada!"
-  },
-  {
-    "id": "/read-manga/handyman_saitou_in_another_world/",
-    "title": "Handyman Saitou In Another World"
   },
   {
     "id": "/read-manga/ou_sama_to_puppy_love/",
@@ -12468,10 +12484,6 @@
     "title": "Sadistic Prince"
   },
   {
-    "id": "/read-manga/googookaka/",
-    "title": "Googookaka"
-  },
-  {
     "id": "/read-manga/infinite_dendrogram/",
     "title": "Infinite Dendrogram"
   },
@@ -12490,10 +12502,6 @@
   {
     "id": "/read-manga/hayachine/",
     "title": "Hayachine!"
-  },
-  {
-    "id": "/read-manga/kanojo_to_kamera_to_kanojo_no_kisetsu/",
-    "title": "Kanojo To Kamera To Kanojo No Kisetsu"
   },
   {
     "id": "/read-manga/kanojo_to_kamera_to_kanojo_no_kisetsu/",
@@ -12942,10 +12950,6 @@
   {
     "id": "/read-manga/kekkon_suru_kamoshirenai_otoko/",
     "title": "Kekkon Suru Kamoshirenai Otoko"
-  },
-  {
-    "id": "/read-manga/hi_score_girl/",
-    "title": "Hi Score Girl"
   },
   {
     "id": "/read-manga/magika_no_kenshi_to_shoukan_maou/",
@@ -48132,10 +48136,6 @@
     "title": "Fukigen Kareshi no Nadamekata"
   },
   {
-    "id": "/read-manga/itoshikute_nikui_hito/",
-    "title": "Itoshikute Nikui Hito"
-  },
-  {
     "id": "/read-manga/aikatsu_dj_shiranai_bukiyou_kireina_ko/",
     "title": "Aikatsu! Dj - Shiranai Bukiyou Kireina Ko"
   },
@@ -79218,6 +79218,10 @@
   {
     "id": "/read-manga/dragon_ball_episode_of_bardock/",
     "title": "Dragon Ball: Episode of Bardock"
+  },
+  {
+    "id": "/read-manga/itoshikute_nikui_hito/",
+    "title": "Itoshikute Nikui Hito"
   },
   {
     "id": "/read-manga/gallery_fake/",
@@ -112762,10 +112766,6 @@
   {
     "id": "/read-manga/shishunki_miman_okotowari/",
     "title": "Shishunki Miman Okotowari"
-  },
-  {
-    "id": "/read-manga/shape_of_love/",
-    "title": "Shape of Love"
   },
   {
     "id": "/read-manga/sensei_wa_egotist/",
