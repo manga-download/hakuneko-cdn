@@ -23,7 +23,13 @@ scraper.getMangaList(pageFrom, pageTo)
     if(!mangaListWeb || !mangaListWeb.length) {
         throw new Error('Invalid manga list!');
     }
-    io.saveFileJSON(`./${id}/mangas.json`, mangaListWeb);
+    logger.debug(`Web: ${mangaListWeb.length} mangas`);
+    let mangaListLocal = io.loadFileJSON(`./${id}/mangas.json`);
+    logger.debug(`Local: ${mangaListLocal.length} mangas`);
+    let mangaList = mangaListLocal.concat(mangaListWeb);
+    mangaList = io.unique(mangaList);
+    logger.debug(`Merged: ${mangaList.length} mangas`);
+    io.saveFileJSON(`./${id}/mangas.json`, mangaList);
 })
 .catch(error => {
     logger.error(error);

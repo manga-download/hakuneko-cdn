@@ -27,6 +27,14 @@ module.exports = class IO {
     /**
      * 
      * @param {*} file 
+     */
+    loadFileJSON(file) {
+        return JSON.parse(fs.readFileSync(file, 'utf8'));
+    }
+
+    /**
+     * 
+     * @param {*} file 
      * @param {*} data 
      */
     saveFileJSON(file, data ) {
@@ -37,5 +45,22 @@ module.exports = class IO {
                 logger.error(error);
             }
         });
+    }
+
+    /**
+     * 
+     * @param {*} list 
+     */
+    unique(list) {
+        return list.filter((item, index) => {
+            // only allow items once by checking if the index matches the index of the first appearance
+            return index === list.findIndex(testee => {
+                if(testee.id && item.id) {
+                    return testee.id === item.id;
+                } else {
+                    return testee === item;
+                }
+            } );
+        } );
     }
 }
