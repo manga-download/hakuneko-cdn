@@ -14932,10 +14932,6 @@
     "title": "Full Metal Wing"
   },
   {
-    "id": "/Manga/Full-Moon",
-    "title": "Full Moon"
-  },
-  {
     "id": "/Manga/Full-Moon-Joker",
     "title": "Full Moon Joker"
   },
@@ -39800,10 +39796,6 @@
     "title": "Orefeti"
   },
   {
-    "id": "/Manga/Ore-Koi",
-    "title": "Oremonogatari x Nisekoi"
-  },
-  {
     "id": "/Manga/Orenchi-ni-kita-Onna-kishi-to-Inakagurashi-suru-koto-ni-natta-ken",
     "title": "Orenchi ni kita Onna-kishi to Inakagurashi suru koto ni natta ken"
   },
@@ -54372,10 +54364,6 @@
     "title": "Toki Doki"
   },
   {
-    "id": "/Manga/Toki-Doki",
-    "title": "Toki Doki Sou!"
-  },
-  {
     "id": "/Manga/Toki-Meca",
     "title": "Toki Meca"
   },
@@ -61146,5 +61134,193 @@
   {
     "id": "/Manga/Zutto-Suki-Datta-Kuse-ni",
     "title": "Zutto Suki Datta Kuse ni"
+  },
+  {
+    "id": "/Manga/%25E2%2580%2593-and-%25E2%2580%2593",
+    "title": "& – and –"
+  },
+  {
+    "id": "/Manga/13nichi-wa-Kin%25E2%2580%2599youbi",
+    "title": "13nichi wa Kin’youbi?"
+  },
+  {
+    "id": "/Manga/Alice-Binetsu-38%25C2%25B0C-We-Are-Tsubasa-ga-Oka-D-C",
+    "title": "Alice Binetsu 38°C - We Are Tsubasa ga Oka D.C"
+  },
+  {
+    "id": "/Manga/Amachin-wa-Jishou-%25E2%2599%2582",
+    "title": "Amachin wa Jishou ♂"
+  },
+  {
+    "id": "/Manga/Anorexia-%25E2%2580%2593-Shikabane-Hanako-wa-Kyoshokushou",
+    "title": "Anorexia – Shikabane Hanako wa Kyoshokushou"
+  },
+  {
+    "id": "/Manga/AntiMagic-Academy-%25E2%2580%259CThe-35th-Test-Platoon%25E2%2580%259D",
+    "title": "AntiMagic Academy “The 35th Test Platoon”"
+  },
+  {
+    "id": "/Manga/Asahina-Koharu%25E2%2580%2599s-Delusional-Weather",
+    "title": "Asahina Koharu’s Delusional Weather"
+  },
+  {
+    "id": "/Manga/Azrael%25E2%2580%2599s-Edge",
+    "title": "Azrael’s Edge"
+  },
+  {
+    "id": "/Manga/Baka-to-Test-to-Shoukanjuu%25E2%2580%258E-Dya",
+    "title": "Baka to Test to Shoukanjuu‎ Dya"
+  },
+  {
+    "id": "/Manga/Cigarettes-%25E2%2589%25A0-Chocolate",
+    "title": "Cigarettes ≠ Chocolate"
+  },
+  {
+    "id": "/Manga/Classmate-%25E2%2599%2580-to-Meikyuu-no-Futekisetsu-na-Kouryakuhou",
+    "title": "Classmate (♀) to Meikyuu no Futekisetsu na Kouryakuhou"
+  },
+  {
+    "id": "/Manga/Don%25E2%2580%2599t-Believe-Her",
+    "title": "Don’t Believe Her"
+  },
+  {
+    "id": "/Manga/Dragon%25E2%2580%2599s-Heaven",
+    "title": "Dragon’s Heaven"
+  },
+  {
+    "id": "/Manga/H%25C2%25B3-School",
+    "title": "H³ School!"
+  },
+  {
+    "id": "/Manga/Hell%25E2%2580%2599s-Kitchen",
+    "title": "Hell's Kitchen"
+  },
+  {
+    "id": "/Manga/It%25E2%2580%2599s-Not-My-Fault-That-I%25E2%2580%2599m-Not-Popular",
+    "title": "It’s Not My Fault That I’m Not Popular!"
+  },
+  {
+    "id": "/Manga/Kwa%25C3%25AFdan",
+    "title": "Kwaïdan"
+  },
+  {
+    "id": "/Manga/Kyouhaku-DOG%25E2%2580%2599s-Another-Secret",
+    "title": "Kyouhaku DOG’s -Another Secret-"
+  },
+  {
+    "id": "/Manga/Magia%25E2%2598%2586Report-Mahou-Shoujo-Madoka-Magica-Side-Story--Magia-Record-Senden-Manga",
+    "title": "Magia☆Report - Mahou Shoujo Madoka Magica Side Story [Magia Record] Senden Manga"
+  },
+  {
+    "id": "/Manga/Mayuge-no-Kakudo-wa-45%25C2%25B0-de",
+    "title": "Mayuge no Kakudo wa 45° de"
+  },
+  {
+    "id": "/Manga/Moero%25E2%2598%2586S-kei-Seifuku-Danshi",
+    "title": "Moero☆S-kei Seifuku Danshi!"
+  },
+  {
+    "id": "/Manga/Momoyama-Kyo%25E2%2580%2593dai",
+    "title": "Momoyama Kyo–dai"
+  },
+  {
+    "id": "/Manga/Mouretsu-Uchuu-Kaizoku-%25E2%2580%2593-Akuu-no-Shinen",
+    "title": "Mouretsu Uchuu Kaizoku – Akuu no Shinen"
+  },
+  {
+    "id": "/Manga/Nausica%25C3%25A4-of-the-valley-of-the-wind",
+    "title": "Nausicaä of the valley of the wind"
+  },
+  {
+    "id": "/Manga/Nobles%25E2%2580%2599-Love-Company",
+    "title": "Nobles’ Love Company"
+  },
+  {
+    "id": "/Manga/Ore-no-Imouto-ga-Konna-ni-Kawaii-Wake-ga-Nai-There%25E2%2580%2599s-No-Way-My-Childhood-Friend-Is-Crying-Alone",
+    "title": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai - There’s No Way My Childhood Friend Is Crying Alone"
+  },
+  {
+    "id": "/Manga/Senpai%25C3%2597Kouhai",
+    "title": "Senpai×Kouhai"
+  },
+  {
+    "id": "/Manga/Shirokuma-Caf%25C3%25A9",
+    "title": "Shirokuma Café"
+  },
+  {
+    "id": "/Manga/Shoujo%25E2%2598%2586Kageki-Revue-Starlight-The-LIVE-Show-Must-Go-On",
+    "title": "Shoujo☆Kageki Revue Starlight - The LIVE - Show Must Go On"
+  },
+  {
+    "id": "/Manga/Shuumatsu-no-Walk%25C3%25BCre",
+    "title": "Shuumatsu no Walküre"
+  },
+  {
+    "id": "/Manga/Silent-M%25C3%25B6bius-Klein",
+    "title": "Silent Möbius Klein"
+  },
+  {
+    "id": "/Manga/Skeleton-Soldier-Skeleton-Soldier-Couldn%25E2%2580%2599t-Protect-the-Dungeon",
+    "title": "Skeleton Soldier (Skeleton Soldier Couldn't Protect the Dungeon)"
+  },
+  {
+    "id": "/Manga/Skyhigh-Hev%25D3%2599n",
+    "title": "Skyhigh: Hévәn"
+  },
+  {
+    "id": "/Manga/Suki-Kirai%25E2%2580%25A6-demo-Suki",
+    "title": "Suki, Kirai… demo Suki"
+  },
+  {
+    "id": "/Manga/Suki%25E2%2599%25A5Doki",
+    "title": "Suki♥Doki"
+  },
+  {
+    "id": "/Manga/THE-iDOLM-STER-Cinderella-Girls-Shuffle-Cinderella%25E2%2598%2585Egg",
+    "title": "THE iDOLM@STER Cinderella Girls Shuffle!! - Cinderella★Egg"
+  },
+  {
+    "id": "/Manga/There%25E2%2580%2599s-a-Reason-I%25E2%2580%2599m-Undead",
+    "title": "There’s a Reason I’m Undead"
+  },
+  {
+    "id": "/Manga/Tsubakikan-no-Utsukushi-Sugiru-Gar%25C3%25A7on",
+    "title": "Tsubakikan no Utsukushi Sugiru Garçon"
+  },
+  {
+    "id": "/Manga/Ugly-Woman%25E2%2580%2599s-Harem-Code",
+    "title": "Ugly Woman’s Harem Code"
+  },
+  {
+    "id": "/Manga/Uroboros%25E2%2580%2599-Circle",
+    "title": "Uroboros’ Circle"
+  },
+  {
+    "id": "/Manga/Waiwai-%25E2%2598%2585-Hey-Say-JUMP",
+    "title": "Waiwai ★ Hey! Say! JUMP"
+  },
+  {
+    "id": "/Manga/Wakabayashi-Toshiya%25E2%2580%2599s-4-koma-Collection",
+    "title": "Wakabayashi Toshiya’s 4-koma Collection"
+  },
+  {
+    "id": "/Manga/Wei%25C3%259F",
+    "title": "Weiß"
+  },
+  {
+    "id": "/Manga/What%25E2%2580%2599s-with-people-wanting-to-touch-other-people%25E2%2580%2599s-butts",
+    "title": "What’s with people wanting to touch other people’s butts"
+  },
+  {
+    "id": "/Manga/Yokai-Hunter-Night-of-the-Sea-Dragon%25E2%2580%2599s-Festival",
+    "title": "Yokai Hunter – Night of the Sea Dragon’s Festival"
+  },
+  {
+    "id": "/Manga/Yome-%25E2%2599%2582",
+    "title": "Yome ♂"
+  },
+  {
+    "id": "/Manga/Youkoso-Jitsuryoku-Shijou-Shugi-no-Kyoushitsu-e-%25E2%2588%259AHorkita",
+    "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e √Horkita"
   }
 ]
