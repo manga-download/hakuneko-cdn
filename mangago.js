@@ -17,6 +17,7 @@ var logger = new Logger(`./${id}.log`, Logger.LEVEL.All);
 logger.clear();
 var io = new IO(logger);
 var scraper = new Scraper(logger);
+scraper.url = 'http://www.mangago.me.mangago.download';
 
 scraper.getMangaList(pageFrom, pageTo)
 .then(mangaListWeb => {
