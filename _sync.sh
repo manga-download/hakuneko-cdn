@@ -6,6 +6,7 @@ rm -r -f node_modules
 npm install
 node --max-old-space-size=4096 kissmanga.js
 node --max-old-space-size=4096 kissanime.js
+node --max-old-space-size=4096 kisscomic.js
 node --max-old-space-size=4096 mangago.js
 node --max-old-space-size=4096 linewebtoon.js
 git add .
