@@ -1,10 +1,906 @@
 [
   {
-    "id": "/id/horror/mine/list?title_no=1560",
-    "title": "It's Mine"
+    "id": "/id/drama/teenage-mom/list?title_no=1466",
+    "title": "Young Mom"
+  },
+  {
+    "id": "/id/romance/eggnoid/list?title_no=593",
+    "title": "Eggnoid"
+  },
+  {
+    "id": "/id/fantasy/virgo-and-the-sparklings/list?title_no=1123",
+    "title": "Virgo and the Sparklings"
+  },
+  {
+    "id": "/id/romance/wendy/list?title_no=1531",
+    "title": "Wendy the Florist"
+  },
+  {
+    "id": "/id/romance/kimitono-tsunagari/list?title_no=1464",
+    "title": "Between Us"
+  },
+  {
+    "id": "/id/comedy/tahilalats/list?title_no=542",
+    "title": "Tahilalats"
+  },
+  {
+    "id": "/id/fantasy/7-wonders/list?title_no=699",
+    "title": "7 Wonders"
+  },
+  {
+    "id": "/id/slice-of-life/dulu-gwen-pernah/list?title_no=1430",
+    "title": "Dulu Gwe(n) Pernah"
+  },
+  {
+    "id": "/id/fantasy/trolltrap/list?title_no=1239",
+    "title": "Troll Trap"
+  },
+  {
+    "id": "/id/fantasy/tower-of-god/list?title_no=749",
+    "title": "Tower of God"
+  },
+  {
+    "id": "/id/fantasy/dice/list?title_no=440",
+    "title": "DICE"
+  },
+  {
+    "id": "/id/horror/tales-of-the-unusual/list?title_no=439",
+    "title": "Tales of the Unusual"
+  },
+  {
+    "id": "/id/fantasy/9lives/list?title_no=1462",
+    "title": "9 Lives"
+  },
+  {
+    "id": "/id/slice-of-life/smasd/list?title_no=1065",
+    "title": "SMAS'D"
+  },
+  {
+    "id": "/id/comedy/sepulang-sekolah/list?title_no=788",
+    "title": "Sepulang Sekolah"
+  },
+  {
+    "id": "/id/comedy/ghostys-comic/list?title_no=682",
+    "title": "GHOSTY's COMIC"
   },
   {
     "id": "/id/drama/goddess/list?title_no=1392",
     "title": "The Secret of Angel"
+  },
+  {
+    "id": "/id/romance/selebgram/list?title_no=1546",
+    "title": "SELEBGRAM"
+  },
+  {
+    "id": "/id/slice-of-life/ngopi/list?title_no=934",
+    "title": "Ngopi, yuk!"
+  },
+  {
+    "id": "/id/drama/money-and-the-power/list?title_no=1541",
+    "title": "Money and the Power"
+  },
+  {
+    "id": "/id/drama/we-are-pharmacists/list?title_no=828",
+    "title": "We Are Pharmacists"
+  },
+  {
+    "id": "/id/horror/the-infectee/list?title_no=1478",
+    "title": "The Infectee"
+  },
+  {
+    "id": "/id/slice-of-life/next-door-country/list?title_no=932",
+    "title": "Next Door Country"
+  },
+  {
+    "id": "/id/slice-of-life/warung/list?title_no=1476",
+    "title": "Warung"
+  },
+  {
+    "id": "/id/slice-of-life/dracko-diary/list?title_no=710",
+    "title": "Dracko Diary"
+  },
+  {
+    "id": "/id/comedy/kecoadandendam/list?title_no=1228",
+    "title": "Kecoa dan Dendam"
+  },
+  {
+    "id": "/id/fantasy/alpha/list?title_no=1556",
+    "title": "ALPHA"
+  },
+  {
+    "id": "/id/drama/ultrasmash/list?title_no=1444",
+    "title": "ULTRA SMASH!!"
+  },
+  {
+    "id": "/id/comedy/si-udin/list?title_no=668",
+    "title": "Si Udin"
+  },
+  {
+    "id": "/id/horror/cases-of-suicide/list?title_no=990",
+    "title": "Cases of Suicide"
+  },
+  {
+    "id": "/id/comedy/masdimboy/list?title_no=864",
+    "title": "Masdimboy"
+  },
+  {
+    "id": "/id/fantasy/dreamscape/list?title_no=1238",
+    "title": "Dreamscape"
+  },
+  {
+    "id": "/id/romance/change/list?title_no=1194",
+    "title": "CHANGE"
+  },
+  {
+    "id": "/id/romance/wonderwall/list?title_no=602",
+    "title": "Wonderwall"
+  },
+  {
+    "id": "/id/romance/my-unknown-husband/list?title_no=1555",
+    "title": "My Unknown Husband"
+  },
+  {
+    "id": "/id/romance/flawless/list?title_no=595",
+    "title": "Flawless"
+  },
+  {
+    "id": "/id/drama/exchangegirls/list?title_no=1405",
+    "title": "Switched Girls"
+  },
+  {
+    "id": "/id/fantasy/born-from-death/list?title_no=615",
+    "title": "Born from Death"
+  },
+  {
+    "id": "/id/romance/sirens-lament/list?title_no=650",
+    "title": "Siren's Lament"
+  },
+  {
+    "id": "/id/fantasy/return-my-school-life/list?title_no=1349",
+    "title": "Return My School Life"
+  },
+  {
+    "id": "/id/horror/strangers-from-hell/list?title_no=1442",
+    "title": "Strangers from Hell"
+  },
+  {
+    "id": "/id/romance/a-good-day-tobe-a-dog/list?title_no=1443",
+    "title": "A Good Day to be a Dog"
+  },
+  {
+    "id": "/id/comedy/romance-punch/list?title_no=1500",
+    "title": "Romance Punch"
+  },
+  {
+    "id": "/id/comedy/si-ocong/list?title_no=795",
+    "title": "Si Ocong"
+  },
+  {
+    "id": "/id/action/reawaken-man/list?title_no=1078",
+    "title": "Reawaken Man"
+  },
+  {
+    "id": "/id/slice-of-life/jajan-squad/list?title_no=933",
+    "title": "Jajan Squad"
+  },
+  {
+    "id": "/id/slice-of-life/serba-salah/list?title_no=664",
+    "title": "Serba Salah"
+  },
+  {
+    "id": "/id/fantasy/mantradeva/list?title_no=829",
+    "title": "Mantradeva"
+  },
+  {
+    "id": "/id/horror/singbahurekso/list?title_no=1237",
+    "title": "Sing Bahu Rekso"
+  },
+  {
+    "id": "/id/romance/love-revolution/list?title_no=748",
+    "title": "Love Revolution"
+  },
+  {
+    "id": "/id/romance/imarried/list?title_no=1485",
+    "title": "iMarried"
+  },
+  {
+    "id": "/id/romance/infinite-sky/list?title_no=1401",
+    "title": "Infinite Sky"
+  },
+  {
+    "id": "/id/drama/save-me/list?title_no=1509",
+    "title": "SAVE ME"
+  },
+  {
+    "id": "/id/drama/kosan/list?title_no=840",
+    "title": "KOSAN 95!"
+  },
+  {
+    "id": "/id/romance/hanaharu/list?title_no=1053",
+    "title": "HANA HARU"
+  },
+  {
+    "id": "/id/drama/demi-5kg/list?title_no=1027",
+    "title": "Demi 5kg"
+  },
+  {
+    "id": "/id/horror/vendingmachine-of-death/list?title_no=1570",
+    "title": "Vending Machine of Death"
+  },
+  {
+    "id": "/id/romance/whisper-of-hope/list?title_no=1493",
+    "title": "Whisper of Hope"
+  },
+  {
+    "id": "/id/fantasy/the-chosen/list?title_no=1477",
+    "title": "The Chosen"
+  },
+  {
+    "id": "/id/drama/out-of-batteries/list?title_no=1386",
+    "title": "Out of Batteries"
+  },
+  {
+    "id": "/id/horror/heisefangyingji/list?title_no=873",
+    "title": "Cinema of Darkness"
+  },
+  {
+    "id": "/id/horror/curse-of-tomorrow/list?title_no=1530",
+    "title": "Curse of Tomorrow"
+  },
+  {
+    "id": "/id/romance/oh-holy/list?title_no=1088",
+    "title": "Oh! Holy"
+  },
+  {
+    "id": "/id/drama/bingkai-titik/list?title_no=1350",
+    "title": "Bingkai Titik"
+  },
+  {
+    "id": "/id/drama/lookism/list?title_no=532",
+    "title": "LOOKISM"
+  },
+  {
+    "id": "/id/slice-of-life/boyfriends/list?title_no=1561",
+    "title": "Boyfriends"
+  },
+  {
+    "id": "/id/horror/mine/list?title_no=1560",
+    "title": "It's Mine"
+  },
+  {
+    "id": "/id/horror/sweet-home/list?title_no=1286",
+    "title": "Sweet Home"
+  },
+  {
+    "id": "/id/drama/girls-world/list?title_no=627",
+    "title": "Girl's World"
+  },
+  {
+    "id": "/id/romance/closer/list?title_no=1439",
+    "title": "[C]LOSER"
+  },
+  {
+    "id": "/id/drama/good-bad-fortune/list?title_no=1422",
+    "title": "GOOD/BAD FORTUNE"
+  },
+  {
+    "id": "/id/drama/sarimin/list?title_no=1331",
+    "title": "SARIMIN"
+  },
+  {
+    "id": "/id/romance/i-love-yoo/list?title_no=1357",
+    "title": "I Love Yoo"
+  },
+  {
+    "id": "/id/romance/tweening/list?title_no=1406",
+    "title": "Tweening"
+  },
+  {
+    "id": "/id/fantasy/the-gamer/list?title_no=495",
+    "title": "The Gamer"
+  },
+  {
+    "id": "/id/slice-of-life/lazy-cooking/list?title_no=657",
+    "title": "Lazy Cooking"
+  },
+  {
+    "id": "/id/drama/sofia-fashion-investigation/list?title_no=1383",
+    "title": "Sofia: Fashion Investigation"
+  },
+  {
+    "id": "/id/slice-of-life/lucunya-hidup-ini/list?title_no=910",
+    "title": "Lucunya Hidup Ini"
+  },
+  {
+    "id": "/id/romance/my-oppa-is-an-idol/list?title_no=1195",
+    "title": "My Oppa is an Idol"
+  },
+  {
+    "id": "/id/romance/malaikat-maut-tampan/list?title_no=1517",
+    "title": "Malaikat Maut Tampan"
+  },
+  {
+    "id": "/id/fantasy/in-a-dream/list?title_no=694",
+    "title": "In A Dream"
+  },
+  {
+    "id": "/id/drama/the-lost-harmony/list?title_no=1518",
+    "title": "The Lost Harmony"
+  },
+  {
+    "id": "/id/fantasy/aegis-orta/list?title_no=695",
+    "title": "Aegis Orta"
+  },
+  {
+    "id": "/id/fantasy/nusantara-droid-war/list?title_no=596",
+    "title": "Nusantara Droid War"
+  },
+  {
+    "id": "/id/drama/ghosts-dilemma/list?title_no=992",
+    "title": "Ghost's Dilemma"
+  },
+  {
+    "id": "/id/drama/si-unis/list?title_no=1351",
+    "title": "Si Unis"
+  },
+  {
+    "id": "/id/romance/pasturi-gaje/list?title_no=790",
+    "title": "Pasutri Gaje"
+  },
+  {
+    "id": "/id/romance/honey-honey-wedding/list?title_no=1288",
+    "title": "Honey Honey Wedding"
+  },
+  {
+    "id": "/id/romance/sweet-escape/list?title_no=690",
+    "title": "Sweet EscapE"
+  },
+  {
+    "id": "/id/drama/90days/list?title_no=861",
+    "title": "90 Days"
+  },
+  {
+    "id": "/id/action/the-god-of-high-school/list?title_no=583",
+    "title": "The God of High School"
+  },
+  {
+    "id": "/id/fantasy/deadly-7-inside-me/list?title_no=722",
+    "title": "Deadly 7 Inside Me"
+  },
+  {
+    "id": "/id/comedy/lameimaoxianji/list?title_no=876",
+    "title": "Uga Uga"
+  },
+  {
+    "id": "/id/horror/gloomy-sunday/list?title_no=711",
+    "title": "GLOOMY SUNDAY"
+  },
+  {
+    "id": "/id/drama/blue/list?title_no=1423",
+    "title": "BLUE"
+  },
+  {
+    "id": "/id/drama/friends/list?title_no=1548",
+    "title": "Friends"
+  },
+  {
+    "id": "/id/fantasy/secret-of-aura/list?title_no=1333",
+    "title": "Secret of Aura"
+  },
+  {
+    "id": "/id/horror/now-our-school/list?title_no=771",
+    "title": "School Attack"
+  },
+  {
+    "id": "/id/horror/dead-days/list?title_no=516",
+    "title": "Dead Days"
+  },
+  {
+    "id": "/id/horror/ar-toon/list?title_no=773",
+    "title": "The Call"
+  },
+  {
+    "id": "/id/horror/Kumpulan-Kisah-Misteri-Korea/list?title_no=519",
+    "title": "Kumpulan Kisah Misteri Korea"
+  },
+  {
+    "id": "/id/romance/ghost-wife/list?title_no=1287",
+    "title": "Ghost's Wife"
+  },
+  {
+    "id": "/id/comedy/a-simple-thinking-about-blood-type/list?title_no=520",
+    "title": "A Simple Thinking About Bloodtype"
+  },
+  {
+    "id": "/id/romance/2dboyfriends/list?title_no=1545",
+    "title": "2D Boyfriends"
+  },
+  {
+    "id": "/id/slice-of-life/webtoon-ramadhan-2017/list?title_no=1038",
+    "title": "Webtoon Ramadhan 2017"
+  },
+  {
+    "id": "/id/horror/distant-sky/list?title_no=529",
+    "title": "DISTANT SKY"
+  },
+  {
+    "id": "/id/fantasy/be-a-poem/list?title_no=1297",
+    "title": "Be A Poem"
+  },
+  {
+    "id": "/id/romance/we-just-broke-up/list?title_no=530",
+    "title": "WE JUST BROKE UP"
+  },
+  {
+    "id": "/id/action/the-boss/list?title_no=789",
+    "title": "THE BOSS"
+  },
+  {
+    "id": "/id/fantasy/love-warp/list?title_no=793",
+    "title": "Love Warp"
+  },
+  {
+    "id": "/id/action/hive/list?title_no=538",
+    "title": "HIVE"
+  },
+  {
+    "id": "/id/action/minus-hand/list?title_no=794",
+    "title": "Minus Hand"
+  },
+  {
+    "id": "/id/horror/haunted-station/list?title_no=796",
+    "title": "Haunted Station"
+  },
+  {
+    "id": "/id/comedy/komik-faktap/list?title_no=798",
+    "title": "Komik Faktap"
+  },
+  {
+    "id": "/id/comedy/brother/list?title_no=1054",
+    "title": "Brotherhood"
+  },
+  {
+    "id": "/id/fantasy/super-santai/list?title_no=543",
+    "title": "Super Santai"
+  },
+  {
+    "id": "/id/horror/demoniac/list?title_no=1061",
+    "title": "Demoniac"
+  },
+  {
+    "id": "/id/romance/gombalan-goceng/list?title_no=1321",
+    "title": "GOMBALAN GOCENG"
+  },
+  {
+    "id": "/id/drama/summer-miracle/list?title_no=556",
+    "title": "Summer Miracle"
+  },
+  {
+    "id": "/id/horror/chiller/list?title_no=558",
+    "title": "Shiver"
+  },
+  {
+    "id": "/id/drama/my-heart-is-beating/list?title_no=564",
+    "title": "My Heart Is Beating"
+  },
+  {
+    "id": "/id/romance/seventeen/list?title_no=1076",
+    "title": "Seventeen"
+  },
+  {
+    "id": "/id/romance/only-you-dont-know/list?title_no=565",
+    "title": "Only You Don't Know"
+  },
+  {
+    "id": "/id/horror/shriek/list?title_no=821",
+    "title": "SCREAM"
+  },
+  {
+    "id": "/id/romance/super-secret/list?title_no=1087",
+    "title": "Super Secret"
+  },
+  {
+    "id": "/id/fantasy/starwars/list?title_no=578",
+    "title": "Star Wars"
+  },
+  {
+    "id": "/id/horror/possessed/list?title_no=581",
+    "title": "Possessed"
+  },
+  {
+    "id": "/id/comedy/princes-prince/list?title_no=582",
+    "title": "Prince of Prince"
+  },
+  {
+    "id": "/id/romance/yumi-cell/list?title_no=586",
+    "title": "Yumi's Cells"
+  },
+  {
+    "id": "/id/romance/my-pre-wedding/list?title_no=588",
+    "title": "My Pre-Wedding"
+  },
+  {
+    "id": "/id/drama/ojek-story/list?title_no=589",
+    "title": "Ojek Story"
+  },
+  {
+    "id": "/id/comedy/new-si-juki/list?title_no=591",
+    "title": "Si Juki : Kisah Kusut Dunia Dongeng"
+  },
+  {
+    "id": "/id/comedy/no-homo/list?title_no=597",
+    "title": "No Homo"
+  },
+  {
+    "id": "/id/fantasy/noblesse-spin-off/list?title_no=606",
+    "title": "Noblesse spin-off"
+  },
+  {
+    "id": "/id/slice-of-life/go-cek/list?title_no=862",
+    "title": "GO-CEK"
+  },
+  {
+    "id": "/id/drama/girls-of-the-wilds/list?title_no=1374",
+    "title": "Webtoon Legends: Girls of the Wild's"
+  },
+  {
+    "id": "/id/romance/orange-marmalade/list?title_no=1375",
+    "title": "Webtoon Legends: Orange Marmalade"
+  },
+  {
+    "id": "/id/romance/winter-woods/list?title_no=1376",
+    "title": "Webtoon Legends: Winter Woods"
+  },
+  {
+    "id": "/id/drama/trickster/list?title_no=866",
+    "title": "Trickster"
+  },
+  {
+    "id": "/id/comedy/soekirman/list?title_no=611",
+    "title": "Soekirman"
+  },
+  {
+    "id": "/id/slice-of-life/the-normies/list?title_no=612",
+    "title": "The Normies"
+  },
+  {
+    "id": "/id/slice-of-life/sekotengs/list?title_no=1124",
+    "title": "SEKOTENGS"
+  },
+  {
+    "id": "/id/romance/larashati/list?title_no=1125",
+    "title": "LARA(S)HATI"
+  },
+  {
+    "id": "/id/slice-of-life/kurma/list?title_no=1384",
+    "title": "Kurma"
+  },
+  {
+    "id": "/id/drama/304th-study-room/list?title_no=617",
+    "title": "304th Study Room"
+  },
+  {
+    "id": "/id/drama/drackocong/list?title_no=1385",
+    "title": "Drackocong"
+  },
+  {
+    "id": "/id/horror/guidao/list?title_no=874",
+    "title": "Ghost Path"
+  },
+  {
+    "id": "/id/romance/jiangnanmeiren/list?title_no=875",
+    "title": "I Am Gangnam Beauty"
+  },
+  {
+    "id": "/id/romance/ecstasy-hearts/list?title_no=621",
+    "title": "Ecstasy Hearts"
+  },
+  {
+    "id": "/id/horror/mayago/list?title_no=628",
+    "title": "MAYAGO"
+  },
+  {
+    "id": "/id/slice-of-life/smile-brush-my-old-pictures/list?title_no=634",
+    "title": "Smile Brush: My Old Pictures"
+  },
+  {
+    "id": "/id/horror/bastard/list?title_no=636",
+    "title": "Bastard"
+  },
+  {
+    "id": "/id/romance/alice/list?title_no=639",
+    "title": "Alice"
+  },
+  {
+    "id": "/id/horror/bisikan/list?title_no=640",
+    "title": "Bisikan"
+  },
+  {
+    "id": "/id/romance/matahari/list?title_no=1155",
+    "title": "Matahari 1/2 Lingkar"
+  },
+  {
+    "id": "/id/slice-of-life/pak-guru-inyong/list?title_no=909",
+    "title": "Pak Guru Inyong"
+  },
+  {
+    "id": "/id/fantasy/nano-list/list?title_no=654",
+    "title": "NANO LIST"
+  },
+  {
+    "id": "/id/slice-of-life/sekar-x-popular/list?title_no=911",
+    "title": "Sekar X Popular"
+  },
+  {
+    "id": "/id/drama/dr-frost/list?title_no=659",
+    "title": "Dr. Frost"
+  },
+  {
+    "id": "/id/drama/whatever/list?title_no=920",
+    "title": "WHATEVER"
+  },
+  {
+    "id": "/id/horror/stalker/list?title_no=669",
+    "title": "STALKER"
+  },
+  {
+    "id": "/id/romance/terlambat-jatuh-cinta/list?title_no=673",
+    "title": "Terlambat Jatuh Cinta"
+  },
+  {
+    "id": "/id/fantasy/recycle/list?title_no=678",
+    "title": "Recycle"
+  },
+  {
+    "id": "/id/romance/ho/list?title_no=935",
+    "title": "Ho!"
+  },
+  {
+    "id": "/id/romance/the-girls-talk-nothing/list?title_no=937",
+    "title": "Love Doesn't Talk"
+  },
+  {
+    "id": "/id/romance/haoyunluomanshi/list?title_no=683",
+    "title": "LUCKY ROMANCE"
+  },
+  {
+    "id": "/id/horror/creep/list?title_no=684",
+    "title": "Creep"
+  },
+  {
+    "id": "/id/horror/darkspirits/list?title_no=686",
+    "title": "DARK SPIRITS"
+  },
+  {
+    "id": "/id/comedy/10th-dimension-boys/list?title_no=431",
+    "title": "10th Dimension Boys"
+  },
+  {
+    "id": "/id/fantasy/supersantai-ramadhan/list?title_no=687",
+    "title": "Super Santai: Operasi Ramadhan"
+  },
+  {
+    "id": "/id/comedy/si-juki-ramadhan/list?title_no=688",
+    "title": "Nostalgia Ramadhan Si Juki Kecil Season2"
+  },
+  {
+    "id": "/id/comedy/soekirman-ramadhan/list?title_no=689",
+    "title": "Soekirman: Ramadhan di Kampung Halaman"
+  },
+  {
+    "id": "/id/romance/perfect-honeymoon/list?title_no=946",
+    "title": "Perfect Honeymoon"
+  },
+  {
+    "id": "/id/romance/for-the-sake-of-sita/list?title_no=435",
+    "title": "For the Sake of Sita"
+  },
+  {
+    "id": "/id/horror/ghost-teller/list?title_no=947",
+    "title": "Ghost Teller"
+  },
+  {
+    "id": "/id/slice-of-life/smile-brush/list?title_no=441",
+    "title": "Smile Brush"
+  },
+  {
+    "id": "/id/drama/your-letter/list?title_no=1465",
+    "title": "Your Letter"
+  },
+  {
+    "id": "/id/fantasy/noblesse/list?title_no=442",
+    "title": "Noblesse"
+  },
+  {
+    "id": "/id/romance/moments/list?title_no=698",
+    "title": "#moments"
+  },
+  {
+    "id": "/id/comedy/terlalu-tampan/list?title_no=954",
+    "title": "Terlalu Tampan"
+  },
+  {
+    "id": "/id/horror/friday/list?title_no=444",
+    "title": "Friday: Forbidden Tales"
+  },
+  {
+    "id": "/id/slice-of-life/my-kitty-and-old-dog/list?title_no=445",
+    "title": "My Kitty and Old Dog"
+  },
+  {
+    "id": "/id/comedy/new-normal-class-8/list?title_no=446",
+    "title": "New Normal: Class 8"
+  },
+  {
+    "id": "/id/drama/golden-spoon/list?title_no=702",
+    "title": "Golden Spoon"
+  },
+  {
+    "id": "/id/comedy/si-juki/list?title_no=447",
+    "title": "Si Juki: LIKA LIKU ANAK KOS"
+  },
+  {
+    "id": "/id/comedy/just-for-flat-jokes/list?title_no=448",
+    "title": "Just for Flat Jokes"
+  },
+  {
+    "id": "/id/comedy/piraku-x-piraku/list?title_no=449",
+    "title": "Piraku x Piraku"
+  },
+  {
+    "id": "/id/horror/nightmare/list?title_no=1473",
+    "title": "Nightmare"
+  },
+  {
+    "id": "/id/comedy/family-over-flowers/list?title_no=452",
+    "title": "Family Over Flowers"
+  },
+  {
+    "id": "/id/fantasy/shadow/list?title_no=453",
+    "title": "Shadow"
+  },
+  {
+    "id": "/id/horror/the-cliff/list?title_no=454",
+    "title": "The Cliff"
+  },
+  {
+    "id": "/id/horror/riot404/list?title_no=1230",
+    "title": "Riot_404"
+  },
+  {
+    "id": "/id/drama/curious-date/list?title_no=721",
+    "title": "Curious Date"
+  },
+  {
+    "id": "/id/romance/untouchable/list?title_no=475",
+    "title": "unTouchable"
+  },
+  {
+    "id": "/id/horror/the-vault-of-horror-a-collection-of-nightmares/list?title_no=476",
+    "title": "GUDANG CERITA HOROR: KOLEKSI MIMPI-MIMPI BURUK"
+  },
+  {
+    "id": "/id/slice-of-life/kisah-usil-si-juki-kecil/list?title_no=991",
+    "title": "Kisah Usil Si Juki Kecil"
+  },
+  {
+    "id": "/id/romance/cheese-in-the-trap/list?title_no=480",
+    "title": "Cheese in the Trap"
+  },
+  {
+    "id": "/id/drama/heroine/list?title_no=1506",
+    "title": "Heroine"
+  },
+  {
+    "id": "/id/romance/my-ghost-roomie/list?title_no=744",
+    "title": "My Ghost Roomie"
+  },
+  {
+    "id": "/id/drama/be-my-father/list?title_no=1006",
+    "title": "Be My Father"
+  },
+  {
+    "id": "/id/romance/spirit-fingers/list?title_no=751",
+    "title": "Spirit Fingers"
+  },
+  {
+    "id": "/id/comedy/ramadhan-bersama-si-juki-kecil/list?title_no=496",
+    "title": "Nostalgia Ramadhan Si Juki Kecil"
+  },
+  {
+    "id": "/id/drama/about-death/list?title_no=501",
+    "title": "About Death"
+  },
+  {
+    "id": "/id/romance/pingfanshaonvdesimianchuge/list?title_no=1016",
+    "title": "Surrounded by Them"
+  },
+  {
+    "id": "/id/slice-of-life/hari-berarti/list?title_no=1273",
+    "title": "Hari Berarti"
+  },
+  {
+    "id": "/id/drama/god-of-bath/list?title_no=510",
+    "title": "God of Bath"
+  },
+  {
+    "id": "/id/challenge/meryyyyy/list?title_no=284343",
+    "title": "Meryyyyy"
+  },
+  {
+    "id": "/id/challenge/frozen-heart/list?title_no=238150",
+    "title": "FROZEN HEART"
+  },
+  {
+    "id": "/id/challenge/stride/list?title_no=281096",
+    "title": "Stride"
+  },
+  {
+    "id": "/id/challenge/bongor-daily/list?title_no=275314",
+    "title": "Bongor Daily"
+  },
+  {
+    "id": "/id/challenge/dogi-dork/list?title_no=287251",
+    "title": "Dogi Dork"
+  },
+  {
+    "id": "/id/challenge/super-farmer/list?title_no=286893",
+    "title": "SUPER FARMER"
+  },
+  {
+    "id": "/id/challenge/puteri-dan-pangeran-ayam/list?title_no=285992",
+    "title": "Puteri Dan Pangeran Ayam"
+  },
+  {
+    "id": "/id/challenge/keluarga-ucup/list?title_no=286591",
+    "title": "Keluarga Ucup"
+  },
+  {
+    "id": "/id/challenge/my-rival/list?title_no=287272",
+    "title": "My Rival"
+  },
+  {
+    "id": "/id/challenge/revolution/list?title_no=281819",
+    "title": "Revolution"
+  },
+  {
+    "id": "/id/challenge/komik-wibu/list?title_no=282186",
+    "title": "Komik Wibu"
+  },
+  {
+    "id": "/id/challenge/fangirls/list?title_no=287302",
+    "title": "Fangirls"
+  },
+  {
+    "id": "/id/challenge/a-match-made-in-heaven/list?title_no=287300",
+    "title": "A Match Made in Heaven"
+  },
+  {
+    "id": "/id/challenge/yurike/list?title_no=186838",
+    "title": "Yurike"
+  },
+  {
+    "id": "/id/challenge/the-un/list?title_no=287292",
+    "title": "THE UN"
+  },
+  {
+    "id": "/id/challenge/tururung/list?title_no=287114",
+    "title": "Tururung!"
+  },
+  {
+    "id": "/id/challenge/spooky-roomies/list?title_no=283932",
+    "title": "SPOOKY ROOMIES"
+  },
+  {
+    "id": "/id/challenge/reality-life/list?title_no=287231",
+    "title": "Reality Life"
+  },
+  {
+    "id": "/id/challenge/kazakiri/list?title_no=214515",
+    "title": "Kazakiri"
+  },
+  {
+    "id": "/id/challenge/my-witch-master-/list?title_no=287260",
+    "title": "My Witch Master"
   }
 ]
