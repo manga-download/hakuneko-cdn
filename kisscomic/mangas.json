@@ -66702,5 +66702,565 @@
   {
     "id": "/Comic/Xombie-Reanimated",
     "title": "Xombie Reanimated"
+  },
+  {
+    "id": "/Comic/2000-AD-Script-Book",
+    "title": "2000 AD Script Book"
+  },
+  {
+    "id": "/Comic/AARGH",
+    "title": "AARGH!"
+  },
+  {
+    "id": "/Comic/Aberrant-Season-2",
+    "title": "Aberrant Season 2"
+  },
+  {
+    "id": "/Comic/Adventures-of-Fat-Freddy-s-Cat",
+    "title": "Adventures of Fat Freddy's Cat"
+  },
+  {
+    "id": "/Comic/Afterburn-Crossfire",
+    "title": "Afterburn: Crossfire"
+  },
+  {
+    "id": "/Comic/Alec-The-Years-Have-Pants",
+    "title": "Alec: The Years Have Pants"
+  },
+  {
+    "id": "/Comic/Amazing-Comics",
+    "title": "Amazing Comics"
+  },
+  {
+    "id": "/Comic/Angel-Not-Fade-Away",
+    "title": "Angel: Not Fade Away"
+  },
+  {
+    "id": "/Comic/Archie-s-Superteens",
+    "title": "Archie's Superteens"
+  },
+  {
+    "id": "/Comic/Atom-Special",
+    "title": "Atom Special"
+  },
+  {
+    "id": "/Comic/Batman-80-Page-Giant-2011",
+    "title": "Batman 80-Page Giant 2011"
+  },
+  {
+    "id": "/Comic/Batman-Last-Knight-On-Earth",
+    "title": "Batman: Last Knight On Earth"
+  },
+  {
+    "id": "/Comic/Bettie-Page-Unbound",
+    "title": "Bettie Page: Unbound"
+  },
+  {
+    "id": "/Comic/Beyond-2008",
+    "title": "Beyond (2008)"
+  },
+  {
+    "id": "/Comic/Big-Numbers",
+    "title": "Big Numbers"
+  },
+  {
+    "id": "/Comic/Black-Cat",
+    "title": "Black Cat"
+  },
+  {
+    "id": "/Comic/Bludgeon",
+    "title": "Bludgeon"
+  },
+  {
+    "id": "/Comic/Bluebeard",
+    "title": "Bluebeard"
+  },
+  {
+    "id": "/Comic/Book-of-Mr-Natural",
+    "title": "Book of Mr. Natural"
+  },
+  {
+    "id": "/Comic/Brink",
+    "title": "Brink"
+  },
+  {
+    "id": "/Comic/Brothers-of-the-Spear",
+    "title": "Brothers of the Spear"
+  },
+  {
+    "id": "/Comic/Bubba-the-Redneck-Werewolf",
+    "title": "Bubba the Redneck Werewolf"
+  },
+  {
+    "id": "/Comic/Capt-Storm",
+    "title": "Capt. Storm"
+  },
+  {
+    "id": "/Comic/Capture-Creatures",
+    "title": "Capture Creatures"
+  },
+  {
+    "id": "/Comic/Cat-Man",
+    "title": "Cat-Man"
+  },
+  {
+    "id": "/Comic/Clue-Candlestick",
+    "title": "Clue: Candlestick"
+  },
+  {
+    "id": "/Comic/DC-Comics-Presents-2004",
+    "title": "DC Comics Presents (2004)"
+  },
+  {
+    "id": "/Comic/Deadman-2006",
+    "title": "Deadman (2006)"
+  },
+  {
+    "id": "/Comic/Devil-Dinosaur-Spring-Fling",
+    "title": "Devil Dinosaur Spring Fling"
+  },
+  {
+    "id": "/Comic/Diablo-Tales-of-Sanctuary",
+    "title": "Diablo: Tales of Sanctuary"
+  },
+  {
+    "id": "/Comic/Die-Kitty-Die-Heaven-Hell",
+    "title": "Die Kitty Die! Heaven & Hell"
+  },
+  {
+    "id": "/Comic/Disney-Frozen-The-Hero-Within",
+    "title": "Disney Frozen: The Hero Within"
+  },
+  {
+    "id": "/Comic/Ditko-s-World-featuring-Static",
+    "title": "Ditko's World featuring Static"
+  },
+  {
+    "id": "/Comic/Dog-Days-of-Summer",
+    "title": "Dog Days of Summer"
+  },
+  {
+    "id": "/Comic/Don-Simpson-s-Bizarre-Heroes",
+    "title": "Don Simpson's Bizarre Heroes"
+  },
+  {
+    "id": "/Comic/Dong-Xoai-Vietnam-1965",
+    "title": "Dong Xoai, Vietnam 1965"
+  },
+  {
+    "id": "/Comic/Dragonfly-Dragonflyman",
+    "title": "Dragonfly & Dragonflyman"
+  },
+  {
+    "id": "/Comic/Elvira-Mistress-of-the-Dark-Spring-Special",
+    "title": "Elvira: Mistress of the Dark: Spring Special"
+  },
+  {
+    "id": "/Comic/Evil-Eye",
+    "title": "Evil Eye"
+  },
+  {
+    "id": "/Comic/Fairy-Tale-Parade",
+    "title": "Fairy Tale Parade"
+  },
+  {
+    "id": "/Comic/Fat-Freddy-s-Comics-and-Stories",
+    "title": "Fat Freddy's Comics and Stories"
+  },
+  {
+    "id": "/Comic/Godhead",
+    "title": "Godhead"
+  },
+  {
+    "id": "/Comic/Grimm-Fairy-Tales-Giant-Size-2009",
+    "title": "Grimm Fairy Tales Giant-Size (2009)"
+  },
+  {
+    "id": "/Comic/Grimm-Fairy-Tales-presents-Wonderland-Annual",
+    "title": "Grimm Fairy Tales presents Wonderland: Annual"
+  },
+  {
+    "id": "/Comic/Grimm-Fairy-Tales-presents-Wounded-Warriors-Special",
+    "title": "Grimm Fairy Tales presents Wounded Warriors Special"
+  },
+  {
+    "id": "/Comic/Guardians-of-the-Galaxy-and-X-Men-The-Black-Vortex",
+    "title": "Guardians of the Galaxy and X-Men: The Black Vortex"
+  },
+  {
+    "id": "/Comic/Hellboy-vs-Lobster-Johnson-The-Ring-of-Death",
+    "title": "Hellboy vs. Lobster Johnson: The Ring of Death"
+  },
+  {
+    "id": "/Comic/Ice-Age-Iced-In",
+    "title": "Ice Age: Iced In"
+  },
+  {
+    "id": "/Comic/Incredible-Hulk-Last-Call",
+    "title": "Incredible Hulk: Last Call"
+  },
+  {
+    "id": "/Comic/Iron-Maiden-Legacy-of-the-Beast-Night-City",
+    "title": "Iron Maiden: Legacy of the Beast - Night City"
+  },
+  {
+    "id": "/Comic/Jiha",
+    "title": "Jiha"
+  },
+  {
+    "id": "/Comic/JLA-New-World-Order-DC-Essential-Edition",
+    "title": "JLA: New World Order (DC Essential Edition)"
+  },
+  {
+    "id": "/Comic/Killer-Groove",
+    "title": "Killer Groove"
+  },
+  {
+    "id": "/Comic/Lady-Action-Special",
+    "title": "Lady Action Special"
+  },
+  {
+    "id": "/Comic/Larry-Marder-s-Beanworld-Omnibus",
+    "title": "Larry Marder's Beanworld Omnibus"
+  },
+  {
+    "id": "/Comic/Lennon-The-New-York-Years",
+    "title": "Lennon: The New York Years"
+  },
+  {
+    "id": "/Comic/Makeshift-Miracle-The-Girl-From-Nowhere",
+    "title": "Makeshift Miracle: The Girl From Nowhere"
+  },
+  {
+    "id": "/Comic/Married-with-Children",
+    "title": "Married... with Children (1990)"
+  },
+  {
+    "id": "/Comic/Married-with-Children-1991",
+    "title": "Married... with Children (1991)"
+  },
+  {
+    "id": "/Comic/Married-with-Children-2099",
+    "title": "Married... with Children: 2099"
+  },
+  {
+    "id": "/Comic/Married-with-Children-Buck-s-Tale",
+    "title": "Married... with Children: Buck's Tale"
+  },
+  {
+    "id": "/Comic/Married-with-Children-Bud-Bundy-Fanboy-in-Paradise",
+    "title": "Married... with Children: Bud Bundy, Fanboy in Paradise"
+  },
+  {
+    "id": "/Comic/Marvel-Chillers-Blood-Storm",
+    "title": "Marvel Chillers: Blood Storm"
+  },
+  {
+    "id": "/Comic/Marvel-Chillers-The-Mark-of-the-Man-Wolf",
+    "title": "Marvel Chillers: The Mark of the Man-Wolf"
+  },
+  {
+    "id": "/Comic/Marvel-Chillers-The-Thing-in-the-Glass-Case",
+    "title": "Marvel Chillers: The Thing in the Glass Case"
+  },
+  {
+    "id": "/Comic/Marvel-Illustrated-Jungle-Book",
+    "title": "Marvel Illustrated Jungle Book"
+  },
+  {
+    "id": "/Comic/Marvel-Tails-Starring-Peter-Porker-The-Spectacular-Spider-Ham",
+    "title": "Marvel Tails Starring Peter Porker, The Spectacular Spider-Ham"
+  },
+  {
+    "id": "/Comic/Mary-Wept-Over-the-Feet-of-Jesus",
+    "title": "Mary Wept Over the Feet of Jesus"
+  },
+  {
+    "id": "/Comic/Men-of-Wrath",
+    "title": "Men of Wrath"
+  },
+  {
+    "id": "/Comic/Michael-Turner-s-Fathom-2019",
+    "title": "Michael Turner's Fathom (2019)"
+  },
+  {
+    "id": "/Comic/Mister-X",
+    "title": "Mister X"
+  },
+  {
+    "id": "/Comic/Mr-Natural",
+    "title": "Mr. Natural"
+  },
+  {
+    "id": "/Comic/Nickelodeon-The-Legend-of-Korra-Ruins-of-the-Empire",
+    "title": "Nickelodeon The Legend of Korra: Ruins of the Empire"
+  },
+  {
+    "id": "/Comic/Nosferatu-Wars",
+    "title": "Nosferatu Wars"
+  },
+  {
+    "id": "/Comic/Philip-K-Dick-A-Comics-Biography",
+    "title": "Philip K. Dick: A Comics Biography"
+  },
+  {
+    "id": "/Comic/Pieces-for-Mom-A-Tale-of-the-Undead",
+    "title": "Pieces for Mom : A Tale of the Undead"
+  },
+  {
+    "id": "/Comic/Polar-The-Black-Kaiser",
+    "title": "Polar: The Black Kaiser"
+  },
+  {
+    "id": "/Comic/Racket-Squad-in-Action",
+    "title": "Racket Squad in Action"
+  },
+  {
+    "id": "/Comic/Ravens-and-Rainbows",
+    "title": "Ravens and Rainbows"
+  },
+  {
+    "id": "/Comic/Rawhide-Kid-2010",
+    "title": "Rawhide Kid (2010)"
+  },
+  {
+    "id": "/Comic/Reptisaurus",
+    "title": "Reptisaurus"
+  },
+  {
+    "id": "/Comic/Rick-and-Morty-Presents",
+    "title": "Rick and Morty Presents"
+  },
+  {
+    "id": "/Comic/Roachmill-1986",
+    "title": "Roachmill (1986)"
+  },
+  {
+    "id": "/Comic/Road-of-Bones",
+    "title": "Road of Bones"
+  },
+  {
+    "id": "/Comic/Roger-Rabbit-s-Toontown",
+    "title": "Roger Rabbit's Toontown"
+  },
+  {
+    "id": "/Comic/Roly-Poly",
+    "title": "Roly Poly"
+  },
+  {
+    "id": "/Comic/Roman-Republic",
+    "title": "Roman Republic"
+  },
+  {
+    "id": "/Comic/Roy-Rogers",
+    "title": "Roy Rogers"
+  },
+  {
+    "id": "/Comic/Salimba-3-D",
+    "title": "Salimba 3-D"
+  },
+  {
+    "id": "/Comic/Santa-Versus-Dracula",
+    "title": "Santa Versus Dracula"
+  },
+  {
+    "id": "/Comic/Secrets-of-the-Legion-of-Super-Heroes",
+    "title": "Secrets of the Legion of Super-Heroes"
+  },
+  {
+    "id": "/Comic/Sita-Daughter-of-the-Earth",
+    "title": "Sita Daughter of the Earth"
+  },
+  {
+    "id": "/Comic/Skaggy-the-Lost",
+    "title": "Skaggy the Lost"
+  },
+  {
+    "id": "/Comic/Spider-Man-Start-Here-Sampler",
+    "title": "Spider-Man: Start Here Sampler"
+  },
+  {
+    "id": "/Comic/Star-Wars-The-Protocol-Offensive",
+    "title": "Star Wars: The Protocol Offensive"
+  },
+  {
+    "id": "/Comic/Stranger-Things-SIX",
+    "title": "Stranger Things SIX"
+  },
+  {
+    "id": "/Comic/Superdupont",
+    "title": "Superdupont"
+  },
+  {
+    "id": "/Comic/Superman-IV-Movie-Special",
+    "title": "Superman IV Movie Special"
+  },
+  {
+    "id": "/Comic/Superman-Leviathan-Rising-Special",
+    "title": "Superman: Leviathan Rising Special"
+  },
+  {
+    "id": "/Comic/Tales-of-the-Mysterious-Traveler",
+    "title": "Tales of the Mysterious Traveler"
+  },
+  {
+    "id": "/Comic/Team-Sonic-Racing-Deluxe-Turbo-Championship-Edition",
+    "title": "Team Sonic Racing Deluxe Turbo Championship Edition"
+  },
+  {
+    "id": "/Comic/Team-X-2000",
+    "title": "Team X 2000"
+  },
+  {
+    "id": "/Comic/The-Amazing-World-of-Superman-Metropolis-Edition",
+    "title": "The Amazing World of Superman, Metropolis Edition"
+  },
+  {
+    "id": "/Comic/The-Batman-Files",
+    "title": "The Batman Files"
+  },
+  {
+    "id": "/Comic/The-Beano-Book-Annual",
+    "title": "The Beano Book (Annual)"
+  },
+  {
+    "id": "/Comic/The-Book-of-Genesis-Illustrated",
+    "title": "The Book of Genesis Illustrated"
+  },
+  {
+    "id": "/Comic/The-Chuckling-Whatsit",
+    "title": "The Chuckling Whatsit"
+  },
+  {
+    "id": "/Comic/The-Cougar",
+    "title": "The Cougar"
+  },
+  {
+    "id": "/Comic/The-Darkness-Behind",
+    "title": "The Darkness Behind"
+  },
+  {
+    "id": "/Comic/The-Destructor",
+    "title": "The Destructor"
+  },
+  {
+    "id": "/Comic/The-Dragon",
+    "title": "The Dragon"
+  },
+  {
+    "id": "/Comic/The-Egyptian-Princesses",
+    "title": "The Egyptian Princesses"
+  },
+  {
+    "id": "/Comic/The-Fabulous-Furry-Freak-Brothers",
+    "title": "The Fabulous Furry Freak Brothers"
+  },
+  {
+    "id": "/Comic/The-Lovely-Horrible-Stuff",
+    "title": "The Lovely Horrible Stuff"
+  },
+  {
+    "id": "/Comic/The-Marvel-Art-of-Skottie-Young",
+    "title": "The Marvel Art of Skottie Young"
+  },
+  {
+    "id": "/Comic/The-Mystic-Hands-of-Dr-Strange-B-W",
+    "title": "The Mystic Hands of Dr. Strange (B&W)"
+  },
+  {
+    "id": "/Comic/The-Phantom-Ghost-Who-Walks",
+    "title": "The Phantom: Ghost Who Walks"
+  },
+  {
+    "id": "/Comic/The-Plot-The-Secret-Story-of-the-Protocols-of-the-Elders-of-Zion",
+    "title": "The Plot: The Secret Story of the Protocols of the Elders of Zion"
+  },
+  {
+    "id": "/Comic/The-Punisher-2099",
+    "title": "The Punisher 2099"
+  },
+  {
+    "id": "/Comic/Thumbs",
+    "title": "Thumbs"
+  },
+  {
+    "id": "/Comic/Tintin-Film-Books",
+    "title": "Tintin Film Books"
+  },
+  {
+    "id": "/Comic/Trump-s-Space-Force",
+    "title": "Trump's Space Force"
+  },
+  {
+    "id": "/Comic/Unholy-Argent-vs-Onyx",
+    "title": "Unholy: Argent vs Onyx"
+  },
+  {
+    "id": "/Comic/Valour",
+    "title": "Valour"
+  },
+  {
+    "id": "/Comic/Vampblade-Season-4",
+    "title": "Vampblade Season 4"
+  },
+  {
+    "id": "/Comic/Vietnam-Journal",
+    "title": "Vietnam Journal"
+  },
+  {
+    "id": "/Comic/Voodoo-Child",
+    "title": "Voodoo Child"
+  },
+  {
+    "id": "/Comic/Voracious-Appetite-for-Destruction",
+    "title": "Voracious: Appetite for Destruction"
+  },
+  {
+    "id": "/Comic/War-of-the-Realms-Prelude",
+    "title": "War of the Realms Prelude"
+  },
+  {
+    "id": "/Comic/War-Of-The-Realms-Strikeforce-The-Land-Of-Giants",
+    "title": "War Of The Realms Strikeforce: The Land Of Giants"
+  },
+  {
+    "id": "/Comic/Wardog",
+    "title": "Wardog"
+  },
+  {
+    "id": "/Comic/Web-of-Evil",
+    "title": "Web of Evil"
+  },
+  {
+    "id": "/Comic/Wordsmith",
+    "title": "Wordsmith"
+  },
+  {
+    "id": "/Comic/Wrath-of-God",
+    "title": "Wrath of God"
+  },
+  {
+    "id": "/Comic/Wulf-the-Barbarian",
+    "title": "Wulf the Barbarian"
+  },
+  {
+    "id": "/Comic/X-Men-Universe-Past-Present-and-Future",
+    "title": "X-Men Universe: Past, Present and Future"
+  },
+  {
+    "id": "/Comic/X-Men-Steve-Rogers-Escape-From-the-Negative-Zone",
+    "title": "X-Men/Steve Rogers: Escape From the Negative Zone"
+  },
+  {
+    "id": "/Comic/X-Men-Grand-Design-X-Tinction",
+    "title": "X-Men: Grand Design - X-Tinction"
+  },
+  {
+    "id": "/Comic/Yossel-April-19-1943",
+    "title": "Yossel: April 19, 1943"
+  },
+  {
+    "id": "/Comic/Zorro-Sacrilege",
+    "title": "Zorro: Sacrilege"
   }
 ]
