@@ -67570,5 +67570,425 @@
   {
     "id": "/Comic/ZEN-Bounty-Hunter",
     "title": "ZEN: Bounty Hunter"
+  },
+  {
+    "id": "/Comic/Adventure-Time-2013-Spoooktacular",
+    "title": "Adventure Time 2013 Spoooktacular"
+  },
+  {
+    "id": "/Comic/Adventure-Time-Marceline-the-Pirate-Queen",
+    "title": "Adventure Time: Marceline the Pirate Queen"
+  },
+  {
+    "id": "/Comic/Adventure-Time-Princess-and-Princess",
+    "title": "Adventure Time: Princess and Princess"
+  },
+  {
+    "id": "/Comic/Adventure-Time-Thunder-Road",
+    "title": "Adventure Time: Thunder Road"
+  },
+  {
+    "id": "/Comic/Alan-Wake",
+    "title": "Alan Wake"
+  },
+  {
+    "id": "/Comic/All-Funny-Comics",
+    "title": "All Funny Comics"
+  },
+  {
+    "id": "/Comic/Batman-Legends-of-the-Dark-Knight-Halloween-Special",
+    "title": "Batman: Legends of the Dark Knight Halloween Special"
+  },
+  {
+    "id": "/Comic/Battle-For-L-A",
+    "title": "Battle For L.A."
+  },
+  {
+    "id": "/Comic/BlackAcre",
+    "title": "BlackAcre"
+  },
+  {
+    "id": "/Comic/Buckaroo-Banzai-Tears-of-a-Clone",
+    "title": "Buckaroo Banzai: Tears of a Clone"
+  },
+  {
+    "id": "/Comic/Clerks-The-Comic-Book",
+    "title": "Clerks: The Comic Book"
+  },
+  {
+    "id": "/Comic/Clerks-The-Lost-Scene",
+    "title": "Clerks: The Lost Scene"
+  },
+  {
+    "id": "/Comic/Damsels-in-Excess",
+    "title": "Damsels in Excess"
+  },
+  {
+    "id": "/Comic/Defenders-Marvel-Feature-1-Facsimile-Edition",
+    "title": "Defenders: Marvel Feature #1: Facsimile Edition"
+  },
+  {
+    "id": "/Comic/Eden-s-Trail",
+    "title": "Eden's Trail"
+  },
+  {
+    "id": "/Comic/Feather",
+    "title": "Feather"
+  },
+  {
+    "id": "/Comic/Fin-Fang-Four-Return",
+    "title": "Fin Fang Four Return!"
+  },
+  {
+    "id": "/Comic/Generation-X-Holiday-Special",
+    "title": "Generation X Holiday Special"
+  },
+  {
+    "id": "/Comic/Grant-Morrison-s-Doctor-Who",
+    "title": "Grant Morrison's Doctor Who"
+  },
+  {
+    "id": "/Comic/Hellboy-and-the-B-P-R-D-The-Beast-of-Vargu",
+    "title": "Hellboy and the B.P.R.D.: The Beast of Vargu"
+  },
+  {
+    "id": "/Comic/Hellspace",
+    "title": "Hellspace"
+  },
+  {
+    "id": "/Comic/Hero-Alliance",
+    "title": "Hero Alliance"
+  },
+  {
+    "id": "/Comic/Jedi-Academy",
+    "title": "Jedi Academy"
+  },
+  {
+    "id": "/Comic/Johnny-Boo-Does-Something",
+    "title": "Johnny Boo: Does Something!"
+  },
+  {
+    "id": "/Comic/Journalism",
+    "title": "Journalism"
+  },
+  {
+    "id": "/Comic/Justice-Society-of-America-Special",
+    "title": "Justice Society of America Special"
+  },
+  {
+    "id": "/Comic/Last-Shot",
+    "title": "Last Shot"
+  },
+  {
+    "id": "/Comic/Marvel-Monsters-Fin-Fang-Four",
+    "title": "Marvel Monsters: Fin Fang Four"
+  },
+  {
+    "id": "/Comic/Marvel-Super-Hero-Spectacular",
+    "title": "Marvel Super Hero Spectacular"
+  },
+  {
+    "id": "/Comic/Master-Race-and-Other-Stories",
+    "title": "Master Race and Other Stories"
+  },
+  {
+    "id": "/Comic/Mysticons",
+    "title": "Mysticons"
+  },
+  {
+    "id": "/Comic/Panda-Khan-Special",
+    "title": "Panda Khan Special"
+  },
+  {
+    "id": "/Comic/Psi-Lords-2019",
+    "title": "Psi-Lords (2019)"
+  },
+  {
+    "id": "/Comic/Samurai-Jack-Lost-Worlds",
+    "title": "Samurai Jack: Lost Worlds"
+  },
+  {
+    "id": "/Comic/Snow-White-and-the-Seven-Dwarfs-2019",
+    "title": "Snow White and the Seven Dwarfs (2019)"
+  },
+  {
+    "id": "/Comic/Spider-Girl-Battlebook-Streets-of-Fire",
+    "title": "Spider-Girl Battlebook: Streets of Fire"
+  },
+  {
+    "id": "/Comic/Star-Wars-The-Art-of-Star-Wars-The-Force-Awakens",
+    "title": "Star Wars: The Art of Star Wars: The Force Awakens"
+  },
+  {
+    "id": "/Comic/Stuck-Rubber-Baby",
+    "title": "Stuck Rubber Baby"
+  },
+  {
+    "id": "/Comic/The-9-11-Report",
+    "title": "The 9/11 Report"
+  },
+  {
+    "id": "/Comic/The-Art-of-How-to-Train-Your-Dragon-The-Hidden-World",
+    "title": "The Art of How to Train Your Dragon: The Hidden World"
+  },
+  {
+    "id": "/Comic/Trout-The-Hollowest-Knock",
+    "title": "Trout: The Hollowest Knock"
+  },
+  {
+    "id": "/Comic/Warlord-of-Mars-Attacks",
+    "title": "Warlord of Mars Attacks"
+  },
+  {
+    "id": "/Comic/Zorro-Matanzas",
+    "title": "Zorro: Matanzas"
+  },
+  {
+    "id": "/Comic/Aquaman-Suicide-Squad-Sink-Atlantis",
+    "title": "Aquaman/Suicide Squad: Sink Atlantis!"
+  },
+  {
+    "id": "/Comic/Battlebooks-Thing",
+    "title": "Battlebooks: Thing"
+  },
+  {
+    "id": "/Comic/Hero-Alliance-1987",
+    "title": "Hero Alliance (1987)"
+  },
+  {
+    "id": "/Comic/Hero-Alliance-1989",
+    "title": "Hero Alliance (1989)"
+  },
+  {
+    "id": "/Comic/Justice-League-Aquaman-Drowned-Earth",
+    "title": "Justice League/Aquaman: Drowned Earth"
+  },
+  {
+    "id": "/Comic/Mini-Marvels-Ultimate-Collection",
+    "title": "Mini Marvels Ultimate Collection"
+  },
+  {
+    "id": "/Comic/Spellbinders",
+    "title": "Spellbinders"
+  },
+  {
+    "id": "/Comic/Aliens-Colonial-Marines",
+    "title": "Aliens: Colonial Marines"
+  },
+  {
+    "id": "/Comic/Altered-Carbon-Download-Blues",
+    "title": "Altered Carbon: Download Blues"
+  },
+  {
+    "id": "/Comic/Batman-Arkham-Poison-Ivy",
+    "title": "Batman Arkham: Poison Ivy"
+  },
+  {
+    "id": "/Comic/Canto",
+    "title": "Canto"
+  },
+  {
+    "id": "/Comic/Child-Of-Tomorrow-and-Other-Stories",
+    "title": "Child Of Tomorrow and Other Stories"
+  },
+  {
+    "id": "/Comic/Crow-Hack-Slash",
+    "title": "Crow: Hack/Slash"
+  },
+  {
+    "id": "/Comic/Death-Rattle",
+    "title": "Death Rattle"
+  },
+  {
+    "id": "/Comic/Descendants-Twisted-Field-Trip",
+    "title": "Descendants: Twisted Field Trip"
+  },
+  {
+    "id": "/Comic/Dracula-Lord-of-the-Undead",
+    "title": "Dracula: Lord of the Undead"
+  },
+  {
+    "id": "/Comic/Essential-Kurtzman",
+    "title": "Essential Kurtzman"
+  },
+  {
+    "id": "/Comic/Gen13-3D-Special",
+    "title": "Gen13 3D Special"
+  },
+  {
+    "id": "/Comic/George-Perez-Storyteller",
+    "title": "George Perez Storyteller"
+  },
+  {
+    "id": "/Comic/G-Man-Cape-Crisis",
+    "title": "G-Man: Cape Crisis"
+  },
+  {
+    "id": "/Comic/G-Man-Coming-Home",
+    "title": "G-Man: Coming Home"
+  },
+  {
+    "id": "/Comic/G-Man-Learning-to-Fly",
+    "title": "G-Man: Learning to Fly"
+  },
+  {
+    "id": "/Comic/Green-Manor",
+    "title": "Green Manor"
+  },
+  {
+    "id": "/Comic/Harold-Hedd-in-Hitler-s-Cocaine",
+    "title": "Harold Hedd in \"Hitler's Cocaine\""
+  },
+  {
+    "id": "/Comic/Hero-Alliance-End-of-Golden-Age",
+    "title": "Hero Alliance: End of Golden Age"
+  },
+  {
+    "id": "/Comic/History-of-the-Marvel-Universe",
+    "title": "History of the Marvel Universe"
+  },
+  {
+    "id": "/Comic/Horror-Comics",
+    "title": "Horror Comics"
+  },
+  {
+    "id": "/Comic/Ignited",
+    "title": "Ignited"
+  },
+  {
+    "id": "/Comic/Kid-Kosmos-Kidnapped",
+    "title": "Kid Kosmos: Kidnapped"
+  },
+  {
+    "id": "/Comic/Marilyn-Manor",
+    "title": "Marilyn Manor"
+  },
+  {
+    "id": "/Comic/Mobster-Graveyard",
+    "title": "Mobster Graveyard"
+  },
+  {
+    "id": "/Comic/Mox-Nox",
+    "title": "Mox Nox"
+  },
+  {
+    "id": "/Comic/Offbeats",
+    "title": "Offbeats"
+  },
+  {
+    "id": "/Comic/Princess-of-Venus",
+    "title": "Princess of Venus"
+  },
+  {
+    "id": "/Comic/Quest-For-Camelot",
+    "title": "Quest For Camelot"
+  },
+  {
+    "id": "/Comic/Robyn-Hood-2016-Annual",
+    "title": "Robyn Hood 2016 Annual"
+  },
+  {
+    "id": "/Comic/Saban-s-Go-Go-Power-Rangers-Forever-Rangers",
+    "title": "Saban's Go Go Power Rangers: Forever Rangers"
+  },
+  {
+    "id": "/Comic/Safe-Area-Gorazde",
+    "title": "Safe Area Goražde"
+  },
+  {
+    "id": "/Comic/Soulfire",
+    "title": "Soulfire"
+  },
+  {
+    "id": "/Comic/Spacehawk",
+    "title": "Spacehawk"
+  },
+  {
+    "id": "/Comic/Sparring-With-Gil-Kane-Colloquies-On-Comic-Art-and-Aesthetics",
+    "title": "Sparring With Gil Kane: Colloquies On Comic Art and Aesthetics"
+  },
+  {
+    "id": "/Comic/Spawn-Of-Mars-and-Other-Stories",
+    "title": "Spawn Of Mars and Other Stories"
+  },
+  {
+    "id": "/Comic/Spider-Man-Annual",
+    "title": "Spider-Man Annual"
+  },
+  {
+    "id": "/Comic/Spider-Man-Reptilian-Rage",
+    "title": "Spider-Man: Reptilian Rage"
+  },
+  {
+    "id": "/Comic/Star-Wars-Age-of-Rebellion-Darth-Vader",
+    "title": "Star Wars: Age of Rebellion - Darth Vader"
+  },
+  {
+    "id": "/Comic/Steel-Cage",
+    "title": "Steel Cage"
+  },
+  {
+    "id": "/Comic/Stitched-Terror",
+    "title": "Stitched: Terror"
+  },
+  {
+    "id": "/Comic/Tales-of-the-Marvel-Universe",
+    "title": "Tales of the Marvel Universe"
+  },
+  {
+    "id": "/Comic/Tales-to-Astonish-1994",
+    "title": "Tales to Astonish (1994)"
+  },
+  {
+    "id": "/Comic/The-American",
+    "title": "The American"
+  },
+  {
+    "id": "/Comic/The-Art-of-Anthem",
+    "title": "The Art of Anthem"
+  },
+  {
+    "id": "/Comic/The-Art-of-Ratchet-Clank",
+    "title": "The Art of Ratchet & Clank"
+  },
+  {
+    "id": "/Comic/The-Green-Hand-and-Other-Stories",
+    "title": "The Green Hand and Other Stories"
+  },
+  {
+    "id": "/Comic/The-Spirit-1966",
+    "title": "The Spirit (1966)"
+  },
+  {
+    "id": "/Comic/The-Weatherman-2019",
+    "title": "The Weatherman (2019)"
+  },
+  {
+    "id": "/Comic/Transformers-Ghostbusters",
+    "title": "Transformers/Ghostbusters"
+  },
+  {
+    "id": "/Comic/Untold-Tales-Of-The-New-Universe-D-P-7",
+    "title": "Untold Tales Of The New Universe: D.P.7"
+  },
+  {
+    "id": "/Comic/Untold-Tales-Of-The-New-Universe-Psi-Force",
+    "title": "Untold Tales Of The New Universe: Psi-Force"
+  },
+  {
+    "id": "/Comic/Valiant-Universe-Handbook-2019-Edition",
+    "title": "Valiant Universe Handbook 2019 Edition"
+  },
+  {
+    "id": "/Comic/Vanguard-Illustrated",
+    "title": "Vanguard Illustrated"
+  },
+  {
+    "id": "/Comic/Wolverine-Exit-Wounds",
+    "title": "Wolverine: Exit Wounds"
+  },
+  {
+    "id": "/Comic/Zero-Hour-and-Other-Stories",
+    "title": "Zero Hour and Other Stories"
   }
 ]
