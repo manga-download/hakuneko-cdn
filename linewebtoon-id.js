@@ -1,6 +1,6 @@
 const IO = require('./_io.js');
 const Logger = require('@logtrine/logtrine').FileLogger;
-const Scraper = require('hakuneko').LineWebtoon;
+const Scraper = require('@hakuneko/scrapers').LineWebtoon;
 const id = 'linewebtoon-id';
 
 var pageFrom = ( process.argv.length > 2 ? process.argv[2] : 1 );

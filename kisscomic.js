@@ -1,6 +1,6 @@
 const IO = require('./_io.js');
 const Logger = require('@logtrine/logtrine').FileLogger;
-const Scraper = require('hakuneko').KissComic;
+const Scraper = require('@hakuneko/scrapers').KissComic;
 const id = 'kisscomic';
 
 var pageFrom = ( process.argv.length > 2 ? process.argv[2] : 1 );
