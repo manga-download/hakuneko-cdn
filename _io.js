@@ -1,6 +1,6 @@
 const fs = require( 'fs' );
 const path = require( 'path' );
-const { ConsoleLogger } = require('logtrine');
+const { ConsoleLogger } = require('@logtrine/logtrine');
 
 module.exports = class IO {
 

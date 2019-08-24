@@ -1,5 +1,5 @@
 const IO = require('./_io.js');
-const Logger = require('logtrine').FileLogger;
+const Logger = require('@logtrine/logtrine').FileLogger;
 const Scraper = require('hakuneko').MangaGo;
 const id = 'mangago';
 
