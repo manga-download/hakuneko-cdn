@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "@hakuneko/srapers": "latest",
+    "@hakuneko/scrapers": "latest",
     "@logtrine/logtrine": "latest"
   }
 }
