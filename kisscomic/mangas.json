@@ -70126,5 +70126,289 @@
   {
     "id": "/Comic/Yesterday-s-Tomorrows",
     "title": "Yesterday's Tomorrows"
+  },
+  {
+    "id": "/Comic/Absolute-Carnage-Lethal-Protectors",
+    "title": "Absolute Carnage: Lethal Protectors"
+  },
+  {
+    "id": "/Comic/Absolute-Carnage-Miles-Morales",
+    "title": "Absolute Carnage: Miles Morales"
+  },
+  {
+    "id": "/Comic/Angelica-Reigns-The-Faith",
+    "title": "Angelica Reigns: The Faith"
+  },
+  {
+    "id": "/Comic/Arcade",
+    "title": "Arcade"
+  },
+  {
+    "id": "/Comic/Atomic-Age",
+    "title": "Atomic Age"
+  },
+  {
+    "id": "/Comic/Atomik-Angels",
+    "title": "Atomik Angels"
+  },
+  {
+    "id": "/Comic/AXE-The-Freshmen-Issue-Featuring-The-Avengers",
+    "title": "AXE: The Freshmen Issue Featuring The Avengers"
+  },
+  {
+    "id": "/Comic/Bang-Up-Comics",
+    "title": "Bang-Up Comics"
+  },
+  {
+    "id": "/Comic/Batman-Arkham-Joker-s-Daughter",
+    "title": "Batman Arkham: Joker's Daughter"
+  },
+  {
+    "id": "/Comic/Batman-Arkham-Ra-s-Al-Ghul",
+    "title": "Batman Arkham: Ra's Al Ghul"
+  },
+  {
+    "id": "/Comic/Batman-Arkham-Scarecrow",
+    "title": "Batman Arkham: Scarecrow"
+  },
+  {
+    "id": "/Comic/Batman-Arkham-The-Riddler",
+    "title": "Batman Arkham: The Riddler"
+  },
+  {
+    "id": "/Comic/Batman-Superman-2019",
+    "title": "Batman/Superman (2019)"
+  },
+  {
+    "id": "/Comic/Battlestar-Galactica-1995",
+    "title": "Battlestar Galactica (1995)"
+  },
+  {
+    "id": "/Comic/Battlestar-Galactica-Season-III",
+    "title": "Battlestar Galactica: Season III"
+  },
+  {
+    "id": "/Comic/Battlestar-Galactica-The-Enemy-Within",
+    "title": "Battlestar Galactica: The Enemy Within"
+  },
+  {
+    "id": "/Comic/Beetle-Bailey",
+    "title": "Beetle Bailey"
+  },
+  {
+    "id": "/Comic/Buffy-the-Vampire-Slayer-Chosen-Ones",
+    "title": "Buffy the Vampire Slayer: Chosen Ones"
+  },
+  {
+    "id": "/Comic/Buffy-the-Vampire-Slayer-Tales-of-the-Slayers",
+    "title": "Buffy the Vampire Slayer: Tales of the Slayers"
+  },
+  {
+    "id": "/Comic/Buffy-the-Vampire-Slayer-Tales-of-the-Vampires",
+    "title": "Buffy the Vampire Slayer: Tales of the Vampires"
+  },
+  {
+    "id": "/Comic/Cannon-Busters",
+    "title": "Cannon Busters"
+  },
+  {
+    "id": "/Comic/Captain-Guts",
+    "title": "Captain Guts"
+  },
+  {
+    "id": "/Comic/Captain-Justice",
+    "title": "Captain Justice"
+  },
+  {
+    "id": "/Comic/Carnival-Row-From-the-Dark",
+    "title": "Carnival Row: From the Dark"
+  },
+  {
+    "id": "/Comic/Carnival-Row-Sparrowhawk",
+    "title": "Carnival Row: Sparrowhawk"
+  },
+  {
+    "id": "/Comic/Cavewoman-Roam",
+    "title": "Cavewoman: Roam"
+  },
+  {
+    "id": "/Comic/Comix-Book",
+    "title": "Comix Book"
+  },
+  {
+    "id": "/Comic/Dark-Guard",
+    "title": "Dark Guard"
+  },
+  {
+    "id": "/Comic/Death-s-Head-II-Gold",
+    "title": "Death's Head II Gold"
+  },
+  {
+    "id": "/Comic/Doctor-Mirage",
+    "title": "Doctor Mirage"
+  },
+  {
+    "id": "/Comic/Dr-Horrible-and-Other-Horrible-Stories",
+    "title": "Dr. Horrible and Other Horrible Stories"
+  },
+  {
+    "id": "/Comic/DuckTales-Silence-and-Science",
+    "title": "DuckTales: Silence and Science"
+  },
+  {
+    "id": "/Comic/E-V-E-ProtoMecha",
+    "title": "E.V.E. ProtoMecha"
+  },
+  {
+    "id": "/Comic/Fantastic-Four-Giant-Size-Adventures",
+    "title": "Fantastic Four Giant-Size Adventures"
+  },
+  {
+    "id": "/Comic/Fantastic-Four-4-Yancy-Street",
+    "title": "Fantastic Four: 4 Yancy Street"
+  },
+  {
+    "id": "/Comic/Felix-the-Cat",
+    "title": "Felix the Cat"
+  },
+  {
+    "id": "/Comic/Giant-Size-Marvel-Adventures-Avengers",
+    "title": "Giant-Size Marvel Adventures: Avengers"
+  },
+  {
+    "id": "/Comic/Grimm-Universe-Presents-1-Fall-2019",
+    "title": "Grimm Universe Presents #1: Fall 2019"
+  },
+  {
+    "id": "/Comic/Guidebook-to-the-Marvel-Cinematic-Universe-Marvel-s-Thor",
+    "title": "Guidebook to the Marvel Cinematic Universe - Marvel's Thor"
+  },
+  {
+    "id": "/Comic/Hazed",
+    "title": "Hazed"
+  },
+  {
+    "id": "/Comic/Joker-The-10th-Anniversary-Edition-DC-Black-Label-Edition",
+    "title": "Joker: The 10th Anniversary Edition (DC Black Label Edition)"
+  },
+  {
+    "id": "/Comic/M-M-s-Issue",
+    "title": "M&M's Issue"
+  },
+  {
+    "id": "/Comic/Marvel-Action-Universe",
+    "title": "Marvel Action Universe"
+  },
+  {
+    "id": "/Comic/Marvel-Comics-2019",
+    "title": "Marvel Comics (2019)"
+  },
+  {
+    "id": "/Comic/Marvel-Graphic-Novel-Rick-Mason-The-Agent",
+    "title": "Marvel Graphic Novel: Rick Mason, The Agent"
+  },
+  {
+    "id": "/Comic/Marvel-Monsters",
+    "title": "Marvel Monsters"
+  },
+  {
+    "id": "/Comic/Marvel-TV-Galactus-The-Real-Story",
+    "title": "Marvel TV: Galactus - The Real Story"
+  },
+  {
+    "id": "/Comic/Marvel-s-Spider-Man-Velocity",
+    "title": "Marvel's Spider-Man: Velocity"
+  },
+  {
+    "id": "/Comic/Miss-Beverly-Hills-of-Hollywood",
+    "title": "Miss Beverly Hills of Hollywood"
+  },
+  {
+    "id": "/Comic/Mountainhead",
+    "title": "Mountainhead"
+  },
+  {
+    "id": "/Comic/Origins-of-Marvel-Comics-2010",
+    "title": "Origins of Marvel Comics (2010)"
+  },
+  {
+    "id": "/Comic/Power-Pack-Grow-Up",
+    "title": "Power Pack: Grow Up!"
+  },
+  {
+    "id": "/Comic/Rork-The-Ghosts",
+    "title": "Rork: The Ghosts"
+  },
+  {
+    "id": "/Comic/RWBY",
+    "title": "RWBY"
+  },
+  {
+    "id": "/Comic/SFC",
+    "title": "SFC"
+  },
+  {
+    "id": "/Comic/She-Hulk-Annual",
+    "title": "She-Hulk Annual"
+  },
+  {
+    "id": "/Comic/Shrek",
+    "title": "Shrek"
+  },
+  {
+    "id": "/Comic/Snarf",
+    "title": "Snarf"
+  },
+  {
+    "id": "/Comic/Superboy-and-the-Legion-of-Super-Heroes",
+    "title": "Superboy and the Legion of Super-Heroes"
+  },
+  {
+    "id": "/Comic/Tangled-The-Series-Hair-It-Is",
+    "title": "Tangled: The Series: Hair It Is"
+  },
+  {
+    "id": "/Comic/The-Ballad-of-Yaya",
+    "title": "The Ballad of Yaya"
+  },
+  {
+    "id": "/Comic/The-Goblin",
+    "title": "The Goblin"
+  },
+  {
+    "id": "/Comic/The-Longest-Day-of-the-Future",
+    "title": "The Longest Day of the Future"
+  },
+  {
+    "id": "/Comic/The-Squirrel-Machine",
+    "title": "The Squirrel Machine"
+  },
+  {
+    "id": "/Comic/Tommy-Gun-Wizards",
+    "title": "Tommy Gun Wizards"
+  },
+  {
+    "id": "/Comic/Triple-A-Baseball-Heroes",
+    "title": "Triple-A Baseball Heroes"
+  },
+  {
+    "id": "/Comic/Watchmen-2019-Edition",
+    "title": "Watchmen (2019 Edition)"
+  },
+  {
+    "id": "/Comic/X-Men-Powerless",
+    "title": "X-Men: Powerless"
+  },
+  {
+    "id": "/Comic/X-Men-Ronin",
+    "title": "X-Men: Ronin"
+  },
+  {
+    "id": "/Comic/Young-Lust",
+    "title": "Young Lust"
+  },
+  {
+    "id": "/Comic/Zorro-Masters-Alex-Toth",
+    "title": "Zorro Masters: Alex Toth"
   }
 ]
