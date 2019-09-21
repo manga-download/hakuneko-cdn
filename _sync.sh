@@ -14,6 +14,7 @@ node --max-old-space-size=4096 linewebtoon-id.js
 node --max-old-space-size=4096 linewebtoon-th.js
 node --max-old-space-size=4096 linewebtoon-zh.js
 node --max-old-space-size=4096 manhuagui.js
+node --max-old-space-size=4096 tumangaonline.js
 git add .
 git commit -m 'autoupdate'
 git push
