@@ -20,7 +20,7 @@ module.exports = class IO {
         if(fs.existsSync(dir) || dir === path.parse(dir).root) {
             return;
         }
-        createDirectoryChain(path.dirname(dir));
+        this.createDirectoryChain(path.dirname(dir));
         fs.mkdirSync(dir, '0755', true);
     }
 
@@ -29,7 +29,11 @@ module.exports = class IO {
      * @param {*} file 
      */
     loadFileJSON(file) {
-        return JSON.parse(fs.readFileSync(file, 'utf8'));
+        if(fs.existsSync(file)) {
+            return JSON.parse(fs.readFileSync(file, 'utf8'));
+        } else {
+            return [];
+        }
     }
 
     /**
