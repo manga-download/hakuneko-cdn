@@ -1,10 +1,28 @@
 {
-  "name": "cdn.hakuneko",
+  "name": "@hakuneko/cdn",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "dependencies": {
     "@hakuneko/scrapers": "latest",
     "@logtrine/logtrine": "latest"
+  },
+  "scripts": {
+    "pull": "git pull && rm -r -f node_modules && npm install",
+    "push": "git add . && git commit -m 'auto update' && git push",
+    "kissmanga": "node --max-old-space-size=4096 kissmanga.js",
+    "kissanime": "node --max-old-space-size=4096 kissanime.js",
+    "kisscomic": "node --max-old-space-size=4096 kisscomic.js",
+    "kissdoujin": "node --max-old-space-size=4096 kissdoujin.js",
+    "linewebtoon-en": "node --max-old-space-size=4096 linewebtoon-en.js",
+    "linewebtoon-es": "node --max-old-space-size=4096 linewebtoon-es.js",
+    "linewebtoon-fr": "node --max-old-space-size=4096 linewebtoon-fr.js",
+    "linewebtoon-id": "node --max-old-space-size=4096 linewebtoon-id.js",
+    "linewebtoon-th": "node --max-old-space-size=4096 linewebtoon-th.js",
+    "linewebtoon-zh": "node --max-old-space-size=4096 linewebtoon-zh.js",
+    "mangago": "node --max-old-space-size=4096 mangago.js",
+    "manhuagui": "node --max-old-space-size=4096 manhuagui.js",
+    "tumangaonline": "node --max-old-space-size=4096 tumangaonline.js",
+    "all": "npm run pull && npm run kissmanga && npm run kissanime && npm run kisscomic && npm run kissdoujin && npm run linewebtoon-en && npm run linewebtoon-es && npm run linewebtoon-fr && npm run linewebtoon-id && npm run linewebtoon-th && npm run linewebtoon-zh && npm run mangago && npm run manhuagui && npm run tumangaonline"
   }
 }
